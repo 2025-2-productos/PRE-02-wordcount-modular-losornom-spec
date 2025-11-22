@@ -2,7 +2,7 @@ import os
 
 
 def test_migracion():
-    from ..src.wordcount import main
+    from homework.src.wordcount import main
 
     main()
 
